@@ -2,6 +2,11 @@
 
 Using IBM Watson Media Video Enrichment and advanced Natural Language Understanding to add value to the BBC archive so that content can be harvested for re-use. (Paper presented at the FIAT/IFTA 2018 World Conference in Venice - "The Archive’s Renaissance: Navigating the Future, Channelling the Past")
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15050410.svg)](https://doi.org/10.5281/zenodo.15050410)
+
+
+
 ## Abstract
 
 The BBC, managing a vast archive, utilised IBM Watson Media Video Enrichment to enhance metadata and enable intuitive content retrieval. This project leverages AI, particularly advanced Natural Language Understanding (NLU), to analyse and interpret content, allowing users to ask questions in plain English and retrieve relevant information, transforming how the archive is accessed and utilised.
