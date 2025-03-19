@@ -43,6 +43,14 @@ The project employed IBM Watson Media Video Enrichment, which includes:
 * Increased efficiency in content discovery for researchers and journalists.
 * Demonstrated the potential of AI, especially NLU, for dynamic archive management.
 
+
+
+https://github.com/user-attachments/assets/1bef6d64-7f8b-43ff-9080-5c08f35e652b
+
+
+
+[Demo walkthrough. Newsnight Sample Video (c) BBC Archive]
+
 ## Discussion
 
 The implementation of Watson Video Enrichment, with a focus on NLU, addressed the challenge of managing a massive archive by automating metadata enrichment and enabling intuitive queries. This significantly reduced the time and cost associated with content retrieval. By allowing users to interact with the archive in a natural, conversational manner, the system transformed static archives into dynamic knowledge resources.
