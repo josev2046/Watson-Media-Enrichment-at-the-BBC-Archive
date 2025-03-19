@@ -55,6 +55,6 @@ This project demonstrates the transformative potential of NLU in media archive m
 
 ## References
 
-* IBM Watson Media
-* BBC "The Blue Room"
-* FIAT/IFTA World Conference
+* [IBM Watson Media](https://www.ibm.com/watson)
+* [BBC "The Blue Room"](https://www.bbc.com/blueroom)
+* [FIAT/IFTA World Conference](https://fiatifta.org/world-conference-2018-venice/)
