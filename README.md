@@ -3,6 +3,12 @@
 Using IBM Watson Media Video Enrichment and advanced Natural Language Understanding to add value to the BBC archive so that content can be harvested for re-use. (Paper presented at the FIAT/IFTA 2018 World Conference in Venice - "The Archive’s Renaissance: Navigating the Future, Channelling the Past")
 
 
+
+https://github.com/user-attachments/assets/237672d0-d4c2-4443-b47c-8a01fde52458
+
+
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15050410.svg)](https://doi.org/10.5281/zenodo.15050410)
 
 
