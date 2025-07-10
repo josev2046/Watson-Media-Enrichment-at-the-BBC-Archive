@@ -6,6 +6,8 @@ Using IBM Watson Media Video Enrichment and advanced Natural Language Understand
 
 https://github.com/user-attachments/assets/237672d0-d4c2-4443-b47c-8a01fde52458
 
+[Jose Velazquez shares insights about the project]
+
 
 
 
