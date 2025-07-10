@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:00.555 --> 00:00:04.055
+The BBC managing an enormous archive used Watson
+
+2
+00:00:04.275 --> 00:00:05.735
+to improve its metadata
+
+3
+00:00:06.075 --> 00:00:08.055
+and made content retrieval more intuitive.
+
+4
+00:00:09.125 --> 00:00:10.975
+This project harnessed AI,
+
+5
+00:00:11.175 --> 00:00:13.895
+particularly advanced natural language understanding
+
+6
+00:00:14.355 --> 00:00:15.935
+to analyze and interpret content.
+
+7
+00:00:16.845 --> 00:00:20.215
+This allowed users to ask questions in plain English
+
+8
+00:00:20.475 --> 00:00:23.895
+and get back relevant information, fundamentally changing
+
+9
+00:00:24.035 --> 00:00:25.495
+how the archive was accessed
+
+10
+00:00:25.495 --> 00:00:28.375
+and used With media collections growing
+
+11
+00:00:28.475 --> 00:00:29.615
+at an incredible rate.
+
+12
+00:00:30.125 --> 00:00:33.015
+Effective tools for searching, discovering,
+
+13
+00:00:33.315 --> 00:00:35.495
+and accessing content were absolutely vital.
+
+14
+00:00:36.835 --> 00:00:39.735
+The Blue Room, the BBC's Innovation Hub,
+
+15
+00:00:40.205 --> 00:00:43.655
+implemented my architecture, an early rag prototype,
+
+16
+00:00:44.775 --> 00:00:47.295
+focusing on NLU to unlock the potential
+
+17
+00:00:47.295 --> 00:00:48.335
+of its video archive.
+
+18
+00:00:49.195 --> 00:00:51.135
+The aim of this initiative was to move
+
+19
+00:00:51.135 --> 00:00:53.695
+beyond traditional ways of tagging content
+
+20
+00:00:54.035 --> 00:00:57.175
+and enabled dynamic human-like interaction
+
+21
+00:00:57.525 --> 00:00:58.775
+with archived material.
+
+22
+00:00:59.875 --> 00:01:01.975
+Our main goals for this project were clear
+
+23
+00:01:02.515 --> 00:01:04.055
+to enhance the searchability
+
+24
+00:01:04.435 --> 00:01:07.855
+and accessibility to allow users to retrieve
+
+25
+00:01:08.455 --> 00:01:11.455
+relevant information by asking questions in plain English,
+
+26
+00:01:11.955 --> 00:01:15.095
+to automate the enrichment of metadata, to improve
+
+27
+00:01:15.315 --> 00:01:16.455
+how content is found.
+
+28
+00:01:17.035 --> 00:01:21.175
+To demonstrate the practical application of AI in managing
+
+29
+00:01:21.395 --> 00:01:23.735
+and making the most of large media archives
+
+30
+00:01:24.395 --> 00:01:27.015
+to improve content discovery for researchers
+
+31
+00:01:27.015 --> 00:01:30.095
+and journalists, the project included several key steps.
+
+32
+00:01:30.795 --> 00:01:33.095
+Assets were brought into the IBM platform.
+
+33
+00:01:33.715 --> 00:01:35.135
+Watson analyzed video
+
+34
+00:01:35.515 --> 00:01:38.375
+and audio content to detect scenes keywords,
+
+35
+00:01:38.565 --> 00:01:39.975
+objects, and emotions.
+
+36
+00:01:40.735 --> 00:01:43.575
+NLU was used to extract not just metadata,
+
+37
+00:01:43.635 --> 00:01:46.815
+but also concepts, entities, and themes from the content.
+
+38
+00:01:47.645 --> 00:01:49.375
+This crucial step allowed the system
+
+39
+00:01:49.395 --> 00:01:52.815
+to understand the context of plain English queries
+
+40
+00:01:53.155 --> 00:01:55.895
+and then retrieve the most relevant sections of the archive.
+
+41
+00:01:56.595 --> 00:01:58.775
+Watson identified the main emotions
+
+42
+00:01:58.775 --> 00:01:59.815
+present within the video.
+
+43
+00:02:00.625 --> 00:02:02.775
+Audio was transcribed into text.
+
+44
+00:02:03.155 --> 00:02:05.415
+For analysis, objects, faces,
+
+45
+00:02:05.675 --> 00:02:08.375
+and scenes were automatically recognized and tagged.
+
+46
+00:02:09.195 --> 00:02:11.175
+The Watson API was used
+
+47
+00:02:11.175 --> 00:02:13.655
+to create searchable JSON metadata objects.
+
+48
+00:02:14.475 --> 00:02:16.575
+The project delivered significant outcomes,
+
+49
+00:02:17.695 --> 00:02:21.335
+enhanced metadata for archived video content leading
+
+50
+00:02:21.435 --> 00:02:23.775
+to more precise and intuitive searches.
+
+51
+00:02:24.635 --> 00:02:26.695
+The ability to retrieve relevant content
+
+52
+00:02:27.155 --> 00:02:30.455
+by asking questions in plain English greatly improving
+
+53
+00:02:30.455 --> 00:02:31.535
+the user experience.
+
+54
+00:02:32.475 --> 00:02:33.735
+The automated creation
+
+55
+00:02:33.735 --> 00:02:37.215
+of playlists based on complex natural language queries
+
+56
+00:02:37.805 --> 00:02:40.695
+increased efficiency in content discovery
+
+57
+00:02:40.835 --> 00:02:42.575
+for researchers and journalists.
+
+58
+00:02:43.375 --> 00:02:47.655
+A clear demonstration of AI's potential, especially NLU
+
+59
+00:02:47.875 --> 00:02:49.535
+for Dynamic Archive Management.
+
+60
+00:02:50.495 --> 00:02:54.175
+A demo walkthrough using a NEWSNIGHT sample on the signing
+
+61
+00:02:54.195 --> 00:02:56.375
+of the Good Friday agreement was used
+
+62
+00:02:56.375 --> 00:02:58.255
+to illustrate these results. In practice,
+
+63
+00:02:59.005 --> 00:03:02.485
+Implementing Watson with its strong focus on NLU
+
+64
+00:03:03.245 --> 00:03:05.685
+directly address the challenge of managing a truly massive
+
+65
+00:03:05.795 --> 00:03:08.605
+archive by automating metadata, enrichment
+
+66
+00:03:08.865 --> 00:03:10.605
+and enabling intuitive queries.
+
+67
+00:03:11.235 --> 00:03:13.045
+This significantly reduced the time
+
+68
+00:03:13.045 --> 00:03:15.045
+and cost involved in finding content.
+
+69
+00:03:16.105 --> 00:03:19.605
+By allowing users to interact with the archive in a natural,
+
+70
+00:03:19.745 --> 00:03:22.805
+conversational way, the system transformed
+
+71
+00:03:23.115 --> 00:03:26.165
+what were previously static videotapes into dynamic
+
+72
+00:03:26.585 --> 00:03:27.925
+useful knowledge resources.
+
+73
+00:03:28.395 --> 00:03:30.605
+Looking ahead, our plans included
+
+74
+00:03:31.435 --> 00:03:35.725
+exploring further applications of NLU in archive management,
+
+75
+00:03:36.475 --> 00:03:40.325
+integrating Watson with other BBC systems continuing
+
+76
+00:03:40.325 --> 00:03:43.005
+to improve natural language processing capabilities,
+
+77
+00:03:43.825 --> 00:03:45.405
+and expanding the use of the system
+
+78
+00:03:45.505 --> 00:03:47.925
+to other archive materials beyond just video.
+
+79
+00:03:48.715 --> 00:03:51.485
+This project clearly showed the transformative potential
+
+80
+00:03:51.745 --> 00:03:54.445
+of NLU in media archive management.
+
+81
+00:03:55.225 --> 00:03:59.485
+It demonstrated how AI can enable intuitive human-like
+
+82
+00:03:59.515 --> 00:04:02.925
+interaction with archived content, moving well
+
+83
+00:04:02.925 --> 00:04:04.365
+beyond traditional search methods.
+
+84
+00:04:05.305 --> 00:04:07.245
+By presenting the BBC's experience,
+
+85
+00:04:07.705 --> 00:04:11.005
+it offered a valuable example for other institutions seeking
+
+86
+00:04:11.025 --> 00:04:14.325
+to improve their archive accessibility and usability.
+
+87
+00:04:15.395 --> 00:04:16.605
+Hope you find it interesting.
